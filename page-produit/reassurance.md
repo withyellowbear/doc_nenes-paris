@@ -6,7 +6,7 @@ icon: shield-check
 
 Ce module permet d'insérer une image sous les CTAs d'achat, en page produit.
 
-!!!secondary Une image au un format horizontal est fortement recommandée.
+!!!secondary Une image au format horizontal est fortement recommandée.
 !!!
 
 
