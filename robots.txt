@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://withyellowbear.github.io/doc_nenes-paris/sitemap.xml.gz
