@@ -52,5 +52,5 @@ Les videos doivent être:
 - Avoir une résolution de max. 4K (**4096 x 2160 px**)
 
 !!!light Remarque
-Les paramètres sélectionnés pour les `Default product` seront aussi appliqués pour les autres templates de produits `coming-soon` et `pre-order`.
+Les paramètres sélectionnés pour les `Default product` seront aussi appliqués pour les autres templates de produits : `coming-soon` et `pre-order`.
 !!!

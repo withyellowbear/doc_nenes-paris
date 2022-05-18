@@ -23,11 +23,11 @@ Ce module permet d'insérer une image sous les CTAs d'achat, en page produit.
     
   ![](img/video-3.png)
 
-  4. Les paramètres se trouvent dans la partie `Reassurance`
+  4. L'image de réassurance peut être ajoutée ou supprimée dans la partie `Reassurance`
 
   ![](img/reassurance-1.png)
 
 
 !!!light Remarque
-Les paramètres sélectionnés pour les `Default product` seront aussi appliqués pour les autres templates de produits `coming-soon` et `pre-order`.
+Les paramètres sélectionnés pour les `Default product` seront aussi appliqués pour les autres templates de produits : `coming-soon` et `pre-order`.
 !!!
